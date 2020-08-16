@@ -1,0 +1,9 @@
+{
+    "name": "Conversor de texto",
+    "version": "1.0",
+    "description": "Transforma textos em maiúsculo e minúsculo",
+    "browser_action": {
+        "default_popup": "index.html" 
+    },
+    "manifest_version": 2
+}
